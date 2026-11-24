@@ -2,6 +2,7 @@
 
 # dependencies
 node_modules/
+coverage/
 
 # Expo
 .expo/
@@ -13,6 +14,7 @@ expo-env.d.ts
 .kotlin/
 *.orig.*
 *.jks
+*.keystore
 *.p8
 *.p12
 *.key
@@ -31,7 +33,13 @@ yarn-error.*
 *.pem
 
 # local env files
+.env*
 .env*.local
+
+# build artifacts
+*.apk
+*.aab
+*.log
 
 # typescript
 *.tsbuildinfo
@@ -39,3 +47,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# expo
+expo-env.d.ts
+.expo/

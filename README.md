@@ -209,5 +209,4 @@ src/
 - Portfolio: [portfolio-mauve-iota-15.vercel.app](https://portfolio-mauve-iota-15.vercel.app/)
 
 If you like Orbit, a ⭐ on the repository is always appreciated.
-#   o r b i t - p l a n n e r  
- 
+#
